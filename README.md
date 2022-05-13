@@ -1,2 +1,3 @@
 # random
-# fun tricks!
+fun tricks!
+
